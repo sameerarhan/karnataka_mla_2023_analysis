@@ -1,5 +1,10 @@
 # Karnataka MLA Analysis (Power BI Dashboard)
+## Dashboard Preview
+## View the Demo Video Here
+## https://youtu.be/ymL4a_yxkXc?si=IWlm9uO0zbuzC2Sj
+#
 
+<img width="1438" height="808" alt="overview" src="https://github.com/user-attachments/assets/8b48479b-83f4-45b4-8cb4-1119e861dfb3" />
 ## Overview
 This project analyzes the wealth, criminal records, and education profile of MLAs from Karnataka (2023 State Assembly Elections).
 
@@ -25,8 +30,4 @@ This project analyzes the wealth, criminal records, and education profile of MLA
 - ECI
 - ADR reports
 
-## Dashboard Preview
-# View the Demo Video Here
-https://youtu.be/ymL4a_yxkXc?si=IWlm9uO0zbuzC2Sj
 
-<img width="1438" height="808" alt="overview" src="https://github.com/user-attachments/assets/8b48479b-83f4-45b4-8cb4-1119e861dfb3" />
