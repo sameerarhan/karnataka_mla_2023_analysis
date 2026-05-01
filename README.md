@@ -2,10 +2,10 @@
 ## Dashboard Preview
 #
 <img width="1438" height="808" alt="overview" src="https://github.com/user-attachments/assets/8b48479b-83f4-45b4-8cb4-1119e861dfb3" />
-#
+<br/>
 ## View the Demo Video Here
 ## https://youtu.be/ymL4a_yxkXc?si=IWlm9uO0zbuzC2Sj
-#
+<br/>
 
 ## Overview
 This project analyzes the wealth, criminal records, and education profile of MLAs from Karnataka (2023 State Assembly Elections).
