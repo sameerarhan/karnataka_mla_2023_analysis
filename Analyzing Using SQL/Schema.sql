@@ -1,3 +1,7 @@
+CREATE DATABASE karnataka_cabinet;
+
+USE karnataka_cabinet;
+
 CREATE TABLE mla_list (
     Candidate_id INT PRIMARY KEY,
     Candidate VARCHAR(255),
