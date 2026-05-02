@@ -12,7 +12,7 @@ https://youtu.be/ymL4a_yxkXc?si=IWlm9uO0zbuzC2Sj
 This project analyzes the wealth, criminal records, and education profile of MLAs from Karnataka (2023 State Assembly Elections).
 
 ### Detailed Report
-https://github.com/sameerarhan/karnataka_mla_2023_analysis/blob/main/Power%20BI%20Dashboard/Dashboard%20Report%20Analysis.pdf
+https://github.com/sameerarhan/karnataka_mla_2023_analysis/blob/main/Power%20BI%20Dashboard/Dashboard%20Report%20Detailed%20Analysis%20PDF.pdf
 
 ## Key Insights
 - 54.9% MLAs have criminal cases
