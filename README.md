@@ -32,8 +32,9 @@ https://github.com/sameerarhan/karnataka_mla_2023_analysis/blob/main/Power%20BI%
 - Education vs wealth insights
 
 ## Data Sources
-- myneta.info
-- ECI
-- ADR reports
+- myneta.info (scraped using Python)
+- Election Commission of India (ECI)
+- Association for Democratic Reforms (ADR)
+- PRS India
 
 
