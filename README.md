@@ -93,6 +93,7 @@ SQL schema and queries available in:
 
 ## Repository Structure
 
+```bash
 karnataka_mla_2023_analysis/
 │
 ├── Power BI Dashboard/
@@ -111,6 +112,7 @@ karnataka_mla_2023_analysis/
 │   └── Karnataka Assembly Constituencies Boundary Map.json
 │
 └── README.md
+```
 
 ---
 
