@@ -93,12 +93,24 @@ SQL schema and queries available in:
 
 ## Repository Structure
 
-```bash
-Analyzing Using SQL/
-Power BI Dashboard/
-Data Collection and Cleaning/
-README.md
-```
+karnataka_mla_2023_analysis/
+│
+├── Power BI Dashboard/
+│   ├── Dashboard Images/
+│   ├── Dashboard Full Report.pdf
+│   ├── Dashboard Report Detailed Analysis PDF.pdf
+│   └── PowerBI_Data_Modelling.png
+│
+├── Analyzing Using SQL/
+│   ├── create_schema.sql
+│   ├── import_data.sql
+│   └── analysis_queries.sql
+│
+├── Data Collection and Data Cleaning/
+│   ├── karnataka_mla_dataset.csv
+│   └── Karnataka Assembly Constituencies Boundary Map.json
+│
+└── README.md
 
 ---
 
